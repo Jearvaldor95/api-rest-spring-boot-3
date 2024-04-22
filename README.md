@@ -22,6 +22,7 @@
 
 # Para la transferencia de datos entre entidad y dto
 * MapStruct
+  
    <!-- https://mvnrepository.com/artifact/org.mapstruct/mapstruct -->
         <dependency>
             <groupId>org.mapstruct</groupId>
